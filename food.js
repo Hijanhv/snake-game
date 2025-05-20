@@ -26,3 +26,10 @@ function getRandomFoodPosition() {
   }
   return newFoodPosition;
 }
+
+// continue snake.js logic learning
+// learn about arrays and async await in javascript
+// i'll take ur test
+// make an express js server + html/css/js frontend ( make a todo app )
+// we will move to react
+//21 to 31 = js , c , python , github exam
